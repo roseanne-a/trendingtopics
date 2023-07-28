@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phrases>
+  <phrase title="option.mostTTLimit" version_id="1" version_string="1.0.0"><![CDATA[Number of posts to display]]></phrase>
+  <phrase title="option_explain.mostTTLimit" version_id="1" version_string="1.0.0"><![CDATA[Please enter a non-negative number. This option will be updated at the next hour.]]></phrase>
+  <phrase title="widget_def.trendingtopics" version_id="1" version_string="1.0.0"><![CDATA[Trending Topics]]></phrase>
+  <phrase title="cron_entry.TrendingTopics" version_id="1" version_string="1.0.0"><![CDATA[Trending Topics]]></phrase>
+</phrases>

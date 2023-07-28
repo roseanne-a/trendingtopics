@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cron>
+  <entry entry_id="TrendingTopics" cron_class="Rosey\TrendingTopics\Cron\TrendingTopics" cron_method="runTrendingTopics" active="1"><![CDATA[{"day_type":"dom","dom":[-1],"hours":[-1],"minutes":[0]}]]></entry>
+</cron>
